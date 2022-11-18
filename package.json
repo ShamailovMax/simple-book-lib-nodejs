@@ -1,0 +1,25 @@
+{
+  "name": "simple-book-lib-nodejs",
+  "version": "1.0.0",
+  "description": "Simple catalog of books realised on Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShamailovMax/simple-book-lib-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShamailovMax/simple-book-lib-nodejs/issues"
+  },
+  "homepage": "https://github.com/ShamailovMax/simple-book-lib-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.7.2"
+  }
+}
